@@ -9,20 +9,20 @@ The Nou e-Gyan Portal Clone is a web-based platform that provides educational re
 * 🛠️ Admin Panel: Admins can manage resources and users.
 * 📱 Responsive Design: Fully responsive UI for a seamless experience on any device.
 # 🛠️ Technologies Used
-* 👉🏻 Frontend:
+# Frontend:
 * 🌐 HTML5
 * 🎨 CSS3
 * ⚙️ JavaScript
-* 👉🏻 Backend:
+# 👉🏻 Backend:
 * ☕ Java (Spring Boot)
 * 🖥️ Spring MVC for handling requests and responses.
 * 💾 Spring Data JPA for database interactions.
 * 🗄️ MySQL (for data storage)
 * 📦 Maven (for project management)
 # ⚙️ Setup Instructions
-1.Clone the repository:
+*.Clone the repository:
 [..............................................]
-2.Backend Setup:
+*.Backend Setup:
 * Ensure that Java, Spring Tool Suite (STS), and MySQL are installed.
 * Import the project into STS.
 * Update application.properties with your MySQL database credentials.
