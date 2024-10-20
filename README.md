@@ -20,9 +20,9 @@ The Nou e-Gyan Portal Clone is a web-based platform that provides educational re
 * 🗄️ MySQL (for data storage)
 * 📦 Maven (for project management)
 # ⚙️ Setup Instructions
-* Clone the repository:
-[..............................................]
-* Backend Setup:
+# Clone the repository:
+ https://riyavishwakarma24.github.io/Nou-e-Gyan_Clone/
+# Backend Setup:
 * Ensure that Java, Spring Tool Suite (STS), and MySQL are installed.
 * Import the project into STS.
 * Update application.properties with your MySQL database credentials.
